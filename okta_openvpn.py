@@ -1,4 +1,4 @@
-#!/usr/bin/env python2
+#!/usr/bin/env python
 # vim: set noexpandtab:ts=4
 
 # This Source Code Form is subject to the terms of the Mozilla Public
